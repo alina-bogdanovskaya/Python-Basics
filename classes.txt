@@ -1,0 +1,4 @@
+Physics: 10(practice) 20(lectures) 70(lab)
+Maths: - 30(lectures) 50(lab)
+Religion: - 60(lectures) -
+Physical_Education: 100(practice) - -  
