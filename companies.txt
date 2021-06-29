@@ -1,0 +1,4 @@
+Minus Ltd 30000 20000
+Bafta LLC 40000 50000
+Malbec GmbH 40000 20000
+Vector CIO 0 10000
